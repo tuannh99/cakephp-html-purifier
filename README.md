@@ -11,6 +11,10 @@ HTML Purifier is a standards-compliant HTML filter library written in PHP. HTML 
 
 The plugin includes a Helper and Behavior to clean your markup wherever you like, in the view or in Model::beforeSave.
 
+---
+
+**For CakePHP 2.x use the 1.x version or branch!**
+
 Documentation
 -------------
 
@@ -34,7 +38,7 @@ Contributing to this Plugin
 Please feel free to contribute to the plugin with new issues, requests, unit tests and code fixes or new features. If you want to contribute some code, create a feature branch from develop, and send us your pull request. Unit tests for new features and issues detected are mandatory to keep quality high.
 
 * Pull requests must be send to the ```develop``` branch.
-* Contributions must follow the [PSR2-**R** coding standard recommendation](https://github.com/php-fig-rectified/fig-rectified-standards).
+* Contributions must follow the [PSR2 coding standard recommendation](https://github.com/php-fig-rectified/fig-rectified-standards).
 * [Unit tests](http://book.cakephp.org/3.0/en/development/testing.html) are required.
 
 License
